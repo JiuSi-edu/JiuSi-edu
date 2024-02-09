@@ -1,0 +1,3 @@
+Hello everyone, I'm [jiusi]. I have a strong interest and passion for network technology and computers, so I'm delighted to have the opportunity to share my learning and experiences with you all here.
+
+I've always been curious about network technology and have been diligently studying various aspects of it, including network security, network architecture, cloud computing, and more. I believe that the development of network technology is not only a natural trend in modern society but also one of the important driving forces behind social progress and innovation. Therefore, I hope to continuously delve into and explore the cutting-edge fields of network technology, making more efforts for my own career development and contributing to society.
